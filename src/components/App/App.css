@@ -1,0 +1,11 @@
+.content-main {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 10px 50px;
+}
+
+.content-login {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 50px;
+}
